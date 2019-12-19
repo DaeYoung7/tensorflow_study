@@ -1,0 +1,10 @@
+#CIFAR10  classify images which have 10 labels using CNN(not completed)
+
+#heart_disease  predict whether disease or not using MLP
+
+#iris  classify iris which has 3 labels using MLP
+
+#sk_hynix  scraping sk hynix's stock price and predict price using last 7days information
+	using MLP with LSTM model
+
+#sung_Kim  studied with youtube channel named sung kim
