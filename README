@@ -1,6 +1,14 @@
-#CIFAR10  classify images which have 10 labels using CNN(not completed)
+#aerial_cactus  kaggle competition, fast campus, classify images which have 2 labels using CNN
+
+#Attention_LSTM  make chatbot using data(conversation between clerk and consumer), using LSTM, Attention
+
+#Cifar10_  classify images which have 10 labels using CNN, ResNet, DenseNet, Layer Normalization
+
+#GoogleNet  implement GoogleNet which win in first prize in ImageNet
 
 #heart_disease  predict whether disease or not using MLP
+
+#Imdb_RNN  
 
 #iris  classify iris which has 3 labels using MLP
 
